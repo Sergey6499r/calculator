@@ -14,3 +14,4 @@ To build, simply:
 1. Runs `npm install` to install dependencies.
 2. Runs `npm test` to run Mocha and execute the unit tests.
 
+![image](https://user-images.githubusercontent.com/72628822/218563466-924a9106-6e32-441b-80ee-68dffe89537f.png)
